@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SocialTrack</string>
+    <string name="accessibility_description">Mendeteksi perpindahan pada feed video pendek untuk membuat perkiraan jumlah video yang dilihat. Tidak membaca pesan atau mengetik atas nama pengguna.</string>
+</resources>
